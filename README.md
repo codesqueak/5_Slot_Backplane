@@ -16,6 +16,6 @@ Features
 * Pads for 5V power indicator
 * Pads for Molex KK 396 power connector
 * Size 21 x 10 cm (approximately)
-*
+
 
 ![PCB From JLCPCB](pcb.png)
