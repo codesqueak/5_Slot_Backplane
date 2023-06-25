@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "80bus")(type "KiCad")(uri "${KIPRJMOD}/80bus.kicad_sym")(options "")(descr ""))
+  (lib (name "80bus-rescue")(type "KiCad")(uri "${KIPRJMOD}/80bus-rescue.kicad_sym")(options "")(descr ""))
+)
