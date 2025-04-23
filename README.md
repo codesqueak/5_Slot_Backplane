@@ -1,4 +1,4 @@
-# 5_Slot_Backplane
+# 5 Slot Backplane
 
 A compact Backplane for Nascom / Gemini / 80-BUS Computers
 
